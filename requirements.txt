@@ -1,0 +1,8 @@
+# Instalar primeiro o PyTorch com CUDA (ver README):
+#   pip install torch torchvision --index-url https://download.pytorch.org/whl/cu121
+ultralytics>=8.2
+opencv-python
+numpy
+matplotlib
+pillow
+pyyaml

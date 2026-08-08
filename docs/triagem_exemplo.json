@@ -1,0 +1,253 @@
+[
+  {
+    "arquivo": "img_00013.png",
+    "regiao_provavel_do_impacto": "traseira",
+    "pontuacao_por_regiao": {
+      "frontal": 0.0,
+      "lateral": 0.694,
+      "traseira": 2.891
+    },
+    "pecas_detectadas": [
+      {
+        "classe": "parachoque_traseiro",
+        "confianca": 0.967,
+        "bbox_xyxy": [
+          74.9,
+          296.8,
+          390.5,
+          386.5
+        ]
+      },
+      {
+        "classe": "lanterna",
+        "confianca": 0.967,
+        "bbox_xyxy": [
+          79.2,
+          224.9,
+          127.9,
+          300.4
+        ]
+      },
+      {
+        "classe": "lanterna",
+        "confianca": 0.957,
+        "bbox_xyxy": [
+          341.2,
+          224.8,
+          378.8,
+          302.8
+        ]
+      },
+      {
+        "classe": "retrovisor",
+        "confianca": 0.694,
+        "bbox_xyxy": [
+          367.8,
+          218.2,
+          384.7,
+          230.3
+        ]
+      }
+    ],
+    "pre_lista_para_orcamento": [
+      "lanterna",
+      "parachoque_traseiro",
+      "retrovisor"
+    ],
+    "imagem_anotada": "docs/img/triagem/triagem_img_00013.png"
+  },
+  {
+    "arquivo": "img_00023.png",
+    "regiao_provavel_do_impacto": "lateral",
+    "pontuacao_por_regiao": {
+      "frontal": 2.421,
+      "lateral": 2.647,
+      "traseira": 1.806
+    },
+    "pecas_detectadas": [
+      {
+        "classe": "porta",
+        "confianca": 0.964,
+        "bbox_xyxy": [
+          308.1,
+          305.5,
+          384.3,
+          352.0
+        ]
+      },
+      {
+        "classe": "porta",
+        "confianca": 0.944,
+        "bbox_xyxy": [
+          233.0,
+          304.5,
+          304.7,
+          349.8
+        ]
+      },
+      {
+        "classe": "parachoque_traseiro",
+        "confianca": 0.908,
+        "bbox_xyxy": [
+          460.3,
+          323.7,
+          475.9,
+          365.2
+        ]
+      },
+      {
+        "classe": "parachoque_dianteiro",
+        "confianca": 0.899,
+        "bbox_xyxy": [
+          158.3,
+          314.5,
+          182.5,
+          352.9
+        ]
+      },
+      {
+        "classe": "lanterna",
+        "confianca": 0.898,
+        "bbox_xyxy": [
+          461.3,
+          286.3,
+          474.4,
+          324.8
+        ]
+      },
+      {
+        "classe": "capo",
+        "confianca": 0.855,
+        "bbox_xyxy": [
+          174.6,
+          290.6,
+          253.8,
+          302.2
+        ]
+      },
+      {
+        "classe": "retrovisor",
+        "confianca": 0.739,
+        "bbox_xyxy": [
+          241.7,
+          281.7,
+          262.1,
+          292.1
+        ]
+      },
+      {
+        "classe": "farol",
+        "confianca": 0.667,
+        "bbox_xyxy": [
+          163.9,
+          301.9,
+          173.0,
+          315.0
+        ]
+      }
+    ],
+    "pre_lista_para_orcamento": [
+      "capo",
+      "farol",
+      "lanterna",
+      "parachoque_dianteiro",
+      "parachoque_traseiro",
+      "porta",
+      "retrovisor"
+    ],
+    "imagem_anotada": "docs/img/triagem/triagem_img_00023.png"
+  },
+  {
+    "arquivo": "img_00051.png",
+    "regiao_provavel_do_impacto": "traseira",
+    "pontuacao_por_regiao": {
+      "frontal": 0.0,
+      "lateral": 1.625,
+      "traseira": 1.848
+    },
+    "pecas_detectadas": [
+      {
+        "classe": "porta",
+        "confianca": 0.962,
+        "bbox_xyxy": [
+          7.5,
+          257.0,
+          242.9,
+          412.6
+        ]
+      },
+      {
+        "classe": "lanterna",
+        "confianca": 0.95,
+        "bbox_xyxy": [
+          482.3,
+          282.6,
+          577.2,
+          432.3
+        ]
+      },
+      {
+        "classe": "parachoque_traseiro",
+        "confianca": 0.897,
+        "bbox_xyxy": [
+          452.9,
+          232.2,
+          579.2,
+          521.3
+        ]
+      },
+      {
+        "classe": "porta",
+        "confianca": 0.663,
+        "bbox_xyxy": [
+          0.0,
+          233.4,
+          66.0,
+          351.4
+        ]
+      }
+    ],
+    "pre_lista_para_orcamento": [
+      "lanterna",
+      "parachoque_traseiro",
+      "porta"
+    ],
+    "imagem_anotada": "docs/img/triagem/triagem_img_00051.png"
+  },
+  {
+    "arquivo": "img_00054.png",
+    "regiao_provavel_do_impacto": "traseira",
+    "pontuacao_por_regiao": {
+      "frontal": 0.0,
+      "lateral": 0.0,
+      "traseira": 1.879
+    },
+    "pecas_detectadas": [
+      {
+        "classe": "lanterna",
+        "confianca": 0.97,
+        "bbox_xyxy": [
+          0.0,
+          227.8,
+          251.7,
+          627.0
+        ]
+      },
+      {
+        "classe": "parachoque_traseiro",
+        "confianca": 0.91,
+        "bbox_xyxy": [
+          40.8,
+          295.4,
+          640.0,
+          640.0
+        ]
+      }
+    ],
+    "pre_lista_para_orcamento": [
+      "lanterna",
+      "parachoque_traseiro"
+    ],
+    "imagem_anotada": "docs/img/triagem/triagem_img_00054.png"
+  }
+]

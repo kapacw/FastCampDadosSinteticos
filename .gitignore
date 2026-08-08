@@ -1,0 +1,22 @@
+# Dataset gerado (publicado como zip via GitHub Release — ver README)
+dataset/
+
+# Saídas de treino do Ultralytics (figuras selecionadas vão para docs/img)
+runs/
+
+# Pesos pré-treinados baixados automaticamente pelo Ultralytics
+/yolo*.pt
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Blender
+*.blend1
+*.blend2
+
+# Sistema
+Thumbs.db
+desktop.ini
