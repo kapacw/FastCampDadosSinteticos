@@ -134,8 +134,6 @@ O modelo também foi testado em **fotos reais de um Renault Kwid** (transferênc
 
 ![Triagem em foto real](docs/img/triagem_reais/triagem_capo.png)
 
-Métricas completas por classe, curvas, matriz de confusão e a análise detalhada do *domain gap* estão no [relatório técnico](docs/relatorio.md).
-
 ## Licenças e créditos
 
 **Nenhum asset de terceiros é usado.** O veículo, os materiais, a textura do asfalto e a iluminação são 100% procedurais, gerados por `scripts/construir_cena.py` — sem modelos 3D, texturas ou HDRIs baixados. As imagens do dataset são obra original: a GPL do Blender cobre o programa, não o conteúdo produzido com ele.
