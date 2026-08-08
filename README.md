@@ -2,7 +2,6 @@
 
 > Desafio final FastCamp: geração de dataset sintético com Blender + treinamento de modelo de detecção de objetos.
 >
-> 🚧 **Em desenvolvimento** — acompanhe o status das etapas abaixo.
 
 ## O problema
 
